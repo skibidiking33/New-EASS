@@ -1,10 +1,10 @@
 var input = document.querySelector("input");
 function rammerheadclicked() {
-    window.open("https://www.membean.gq");
+    window.open("https://nadiasproxy.nex.sh/");
 }
 
 function interstellarclicked() {
-    window.open("https://skibidiking33.github.com/interszteallat");
+    window.open("https://skibidiking33.github.io/interszteallat/");
 }
 
 function gotowebsite() {
