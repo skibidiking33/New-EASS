@@ -1,20 +1,21 @@
-var input = document.querySelector("input");
+var input = document.getElementById("input").value;
 function rammerheadclicked() {
-    window.open("https://nadiasproxy.nex.sh/");
+    window.open("https://www.membean.gq");
 }
 
 function interstellarclicked() {
-    window.open("https://skibidiking33.github.io/interszteallat/");
+    window.open("https://skibidiking33.github.com/interszteallat");
 }
 
 function gotowebsite() {
-    var setUrl = input.value;
+    var setUrl = input;
     if (setUrl.trim() !== "") {
         if (!setUrl.startsWith("http://") && !setUrl.startsWith("https://")) {
             setUrl = "https://" + setUrl;
         }
-        window.open(setUrl, '_blank');
+        window.open(setUrl);
     }
 }
+
 
 
