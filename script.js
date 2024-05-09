@@ -6,6 +6,10 @@ function interstellarclicked() {
     window.open("https://skibidiking33.github.com/interszteallat");
 }
 
+function gnClicked() {
+    window.open("https://skibidiking33.github.com/interszteallat");
+}
+
 function gotowebsite() {
     var setUrl = document.getElementById("input").value;
     if (setUrl.trim() !== "") {
