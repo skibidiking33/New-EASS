@@ -6,8 +6,13 @@ function interstellarclicked() {
     window.open("https://skibidiking33.github.com/interszteallat");
 }
 
-function gnClicked()() {
+function gnClicked() {
     window.open("https://gnhustgames.github.com/");
+}
+
+function googleClicked() {
+    window.open("https://google.com/");
+
 }
 
 function gotowebsite() {
